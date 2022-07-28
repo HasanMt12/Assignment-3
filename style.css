@@ -11,7 +11,15 @@ a{
 .btn-main{
     background: linear-gradient(to right, rgb(153, 180, 185),
         rgb(27, 95, 134));
-    }
+}
 .btn:hover {
     transform: translateY(-5px);
+}
+.bg-main{
+    background: linear-gradient(to right, rgb(92, 100, 102),
+        rgb(129, 154, 168));
+}
+.bg-nav{
+  background: linear-gradient(to right, rgb(171, 188, 197),
+        rgb(192, 216, 229));  
 }
