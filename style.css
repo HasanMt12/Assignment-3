@@ -2,7 +2,9 @@ a{
     transition: all 0.4s ease;
     font-weight: 800;
 }
-
+.nav-register{
+    margin-left: 100px;
+}
 .btn{
     padding: 14px 22px;
     transition: all 0.4s ease;
@@ -20,8 +22,8 @@ a{
         rgb(129, 154, 168));
 }
 .bg-nav{
-  background: linear-gradient(to right, rgb(171, 188, 197),
-        rgb(192, 216, 229));  
+  background: linear-gradient(to right, rgb(224, 228, 230),
+        rgb(214, 230, 238));  
 }
 .text-main{
     color: linear-gradient (to right, rgb(171, 188, 197),
